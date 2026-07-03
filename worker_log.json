@@ -1,0 +1,21 @@
+{
+    "A": {
+        "age": 23,
+        "occupation": "",
+        "work_entries": [],
+        "deductions": []
+    },
+    "Aditya": {
+        "age": 23,
+        "occupation": "engineer",
+        "work_entries": [
+            {
+                "shift": "no shift",
+                "days": 25,
+                "hours_per_day": 8.0,
+                "hourly_wage": 2000.0
+            }
+        ],
+        "deductions": []
+    }
+}
